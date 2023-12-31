@@ -3,7 +3,7 @@ from telethon import events, Button
 from config import X1, X2, X3, X4, X5, X6, X7, X8, X9, X10, SUDO_USERS, CMD_HNDLR as hl
 
 
-HELP_STRING = f"★ 𝐇𝐀𝐂𝐊𝐄𝐑 𝘽𝙤𝙩𝙨 𝙃𝙚𝙡𝙥 𝙈𝙚𝙣𝙪 ★\n\n» **ᴄʟɪᴄᴋ ᴏɴ ʙᴇʟᴏᴡ ʙᴜᴛᴛᴏɴꜱ ꜰᴏʀ ʜᴇʟᴘ**\n» **ᴅᴇᴠᴇʟᴏᴘᴇʀ: @Legend_of_all_groups**"
+HELP_STRING = f"★ 𝐔𝐑𝐈𝐗𝐗 𝘽𝙤𝙩𝙨 𝙃𝙚𝙡𝙥 𝙈𝙚𝙣𝙪 ★\n\n» **ᴄʟɪᴄᴋ ᴏɴ ʙᴇʟᴏᴡ ʙᴜᴛᴛᴏɴꜱ ꜰᴏʀ ʜᴇʟᴘ**\n» **ᴅᴇᴠᴇʟᴏᴘᴇʀ: @URIXX_X_0**"
 
 HELP_BUTTON = [
     [
@@ -142,7 +142,7 @@ async def helpback(event):
             ]
           )
     else:
-        await event.answer("Make Your Own Hacker OP Bots !! @Legend_of_all_groups", cache_time=0, alert=True)
+        await event.answer("Make Your Own URIXX OP Bots !! @URIXX_X_O", cache_time=0, alert=True)
 
 
 @X1.on(events.CallbackQuery(pattern=r"spam"))
@@ -161,7 +161,7 @@ async def help_spam(event):
               buttons=[[Button.inline("< Back", data="help_back"),],],
               ) 
     else:
-        await event.answer("Make Your Own Hacker OP Bots !! @legend_of_all_groups", cache_time=0, alert=True)
+        await event.answer("Make Your Own Hacker OP Bots !! @URIXX_X_O", cache_time=0, alert=True)
 
 
 @X1.on(events.CallbackQuery(pattern=r"raid"))
@@ -180,7 +180,7 @@ async def help_raid(event):
             buttons=[[Button.inline("< Back", data="help_back"),],],
           )
     else:
-        await event.answer("Make Your Own Hacker OP Bots !! @Legend_of_all_groups", cache_time=0, alert=True)
+        await event.answer("Make Your Own URIXX OP Bots !! @URIXX_X_O", cache_time=0, alert=True)
 
 
 @X1.on(events.CallbackQuery(pattern=r"extra"))
@@ -199,4 +199,4 @@ async def help_extra(event):
             buttons=[[Button.inline("< Back", data="help_back"),],],
             )
     else:
-        await event.answer("Make Your Own Hacker OP Bots !! @Legend_of_all_groups", cache_time=0, alert=True)
+        await event.answer("Make Your Own URIXX OP Bots !! @URIXX_X_0", cache_time=0, alert=True)
