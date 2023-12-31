@@ -1,8 +1,8 @@
 <h1 align="center"><b>[⚡] 𝐔𝐑𝐈𝐗𝐗 𝐗 𝐒𝐏𝐀𝐌 𝐁𝐎𝐓 [⚡]</b></h1>
 
-<h4 align="center"> 𝐀 𝐏𝐎𝐖𝐄𝐑𝐅𝐔𝐋 𝐒𝐏𝐀𝐌𝐁𝐎𝐓𝐒</h4>
+<h4 align="center"> 𝐀 𝐏𝐎𝐖𝐄𝐑𝐅𝐔𝐋 𝐔𝐑𝐈𝐗𝐗 𝐒𝐏𝐀𝐌𝐁𝐎𝐓𝐒</h4>
 
-<p align="center"><a href="https://t.me/legend_of_all_groups"><img src="[https://te.legra.ph/file/d106519f324f3309b23eb.jpg]" width="400"></a></p>
+<p align="center"><a href="https://t.me/URIXX_X_O"><img src="[https://graph.org/file/436f332c91dfd342fbf19.jpg]" width="400"></a></p>
 
 
 > ⭐️ Thanks to everyone for using this op 𝐔𝐑𝐈𝐗𝐗 𝐗 𝐒𝐏𝐀𝐌 𝐁𝐎𝐓. That is the greatest pleasure we have !
