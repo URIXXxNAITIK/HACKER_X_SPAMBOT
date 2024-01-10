@@ -2,7 +2,7 @@
 
 <h4 align="center"> 𝐀 𝐏𝐎𝐖𝐄𝐑𝐅𝐔𝐋  𝐔𝐑𝐈𝐗𝐗  𝐒𝐏𝐀𝐌𝐁𝐎𝐓𝐒</h4>
 
-<p align="center"><a href="https://t.me/URIXX_X_O"><img src="(https://graph.org/file/01bebbb2716ff105490a5.jpg)" width="500"></a></p>
+<p align="center"><a href="https://t.me/URIXX_X_O"><img src="(https://graph.org/file/01bebbb2716ff105490a5.jpg)"></a></p>
 
 
 
