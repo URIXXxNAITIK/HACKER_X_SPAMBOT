@@ -8,11 +8,11 @@ START_BUTTON = [
         Button.inline("• ᴄᴏᴍᴍᴀɴᴅs •", data="help_back")
     ],
     [
-        Button.url("• ᴄʜᴀɴɴᴇʟ •", "https://t.me/O_P_Hacker"),
-        Button.url("• sᴜᴘᴘᴏʀᴛ •", "https://t.me/O_P_Hacker")
+        Button.url("• ᴄʜᴀɴɴᴇʟ •", "https://t.me/URIXX_X_O"),
+        Button.url("• sᴜᴘᴘᴏʀᴛ •", "https://t.me/URIXX_X_O")
     ],
     [
-        Button.url("• ʀᴇᴘᴏ •", "https://te.legra.ph/file/d106519f324f3309b23eb.jpg")
+        Button.url("• ʀᴇᴘᴏ •", "https://t.me/+T62qxcO9ynhlMmI1")
     ]
 ]
 
@@ -34,13 +34,13 @@ async def start(event):
         bot_name = AltBot.first_name
         bot_id = AltBot.id
         TEXT = f"**ʜᴇʏ​ [{event.sender.first_name}](tg://user?id={event.sender.id}),\n\nɪ ᴀᴍ [{bot_name}](tg://user?id={bot_id})​**\n━━━━━━━━━━━━━━━━━━━\n\n"
-        TEXT += f"» **ᴍʏ ᴅᴇᴠᴇʟᴏᴘᴇʀ​ : [𝐔𝐑𝐈𝐗𝐗](https://t.me/legend_of_all_groups)**\n\n"
+        TEXT += f"» **ᴍʏ ᴅᴇᴠᴇʟᴏᴘᴇʀ​ : [𝐔𝐑𝐈𝐗𝐗](https://t.me/URIXX_X_O)**\n\n"
         TEXT += f"» **𝐔𝐑𝐈𝐗𝐗 𝐁𝐎𝐓 ᴠᴇʀsɪᴏɴ :** `M3.3`\n"
         TEXT += f"» **ᴘʏᴛʜᴏɴ ᴠᴇʀsɪᴏɴ :** `3.11.3`\n"
         TEXT += f"» **ᴛᴇʟᴇᴛʜᴏɴ ᴠᴇʀsɪᴏɴ :** `{__version__}`\n━━━━━━━━━━━━━━━━━"
         await event.client.send_file(
                     event.chat_id,
-                    "https://te.legra.ph/file/d106519f324f3309b23eb.jpg",
+                    "https://t.me/+T62qxcO9ynhlMmI1",
                     caption=TEXT, 
                     buttons=START_BUTTON
                 )
