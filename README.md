@@ -2,7 +2,7 @@
 
 <h4 align="center"> 𝐀 𝐏𝐎𝐖𝐄𝐑𝐅𝐔𝐋 𝐊𝐈𝐋𝐋𝐄𝐑  𝐒𝐏𝐀𝐌𝐁𝐎𝐓𝐒</h4>
 
-<p align="center"><a href="https://t.me/URIXX_X_O"><img src="[https://graph.org/file/95cc76bb0ee68144550ea.jpg](https://graph.org/file/2d2517adc4fbd098db06a.jpg)" width="400"></a></p>
+<p align="center"><a href="https://t.me/URIXX_X_O"><img src="(https://graph.org/file/95cc76bb0ee68144550ea.jpg)" width="400"></a></p>
 
 
 
