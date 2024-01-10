@@ -2,7 +2,9 @@
 
 <h4 align="center"> 𝐀 𝐏𝐎𝐖𝐄𝐑𝐅𝐔𝐋  𝐔𝐑𝐈𝐗𝐗  𝐒𝐏𝐀𝐌𝐁𝐎𝐓𝐒</h4>
 
-<p align="center"><a href="https://t.me/URIXX_X_O"><img src="(https://graph.org/file/01bebbb2716ff105490a5.jpg)" width="200"></a></p>
+<p align="center"><a href="https://t.me/URIXX_X_O">
+
+![photo_2024-01-10_11-37-43 (2)](https://github.com/URIXXxNAITIK/HACKER_X_SPAMBOT/assets/155140402/a02b8c04-99e7-4d09-be8b-e1bf94a0ff00)
 
 
 
