@@ -50,7 +50,7 @@ async def raid(e):
                     await e.client.send_message(e.chat_id, caption)
                     await asyncio.sleep(0.1)
         except (IndexError, ValueError, NameError):
-            await e.reply(f"𝗠𝗼𝗱𝘂𝗹𝗲 𝗡𝗮𝗺𝗲: 𝐑𝐚𝐢𝐝\n  » {hl}raid <ᴄᴏᴜɴᴛ> <ᴜꜱᴇʀɴᴀᴍᴇ ᴏꜰ ᴜꜱᴇʀ>\n  » {hl}raid <ᴄᴏᴜɴᴛ> <ʀᴇᴘʟʏ ᴛᴏ ᴀ ᴜꜱᴇʀ>")
+            await e.reply(f"𝐀𝐁𝐄 𝐁𝐇𝐀𝐈 𝐔𝐒𝐊𝐄 𝐑𝐄𝐏𝐋𝐘 𝐌𝐄𝐈𝐍 𝐋𝐈𝐊𝐇𝐎 𝐉𝐀𝐁 𝐔𝐑𝐈𝐗𝐗 𝐆𝐀𝐍𝐃 𝐅𝐀𝐃𝐄𝐆𝐀 \n  » {hl}raid <ᴄᴏᴜɴᴛ> <ᴜꜱᴇʀɴᴀᴍᴇ ᴏꜰ ᴜꜱᴇʀ>\n  » {hl}raid <ᴄᴏᴜɴᴛ> <ʀᴇᴘʟʏ ᴛᴏ ᴀ ᴜꜱᴇʀ>")
         except Exception as e:
             print(e)
 
@@ -112,7 +112,7 @@ async def rraid(e):
                     REPLY_RAID.append(check)
                 await e.reply("» ᴀᴄᴛɪᴠᴀᴛᴇᴅ ʀᴇᴘʟʏʀᴀɪᴅ !! ✅")
         except NameError:
-            await e.reply(f"𝗠𝗼𝗱𝘂𝗹𝗲 𝗡𝗮𝗺𝗲: 𝐑𝐞𝐩𝐥𝐲𝐑𝐚𝐢𝐝\n  » {hl}rraid <ᴜꜱᴇʀɴᴀᴍᴇ ᴏꜰ ᴜꜱᴇʀ>\n  » {hl}rraid <ʀᴇᴘʟʏ ᴛᴏ ᴀ ᴜꜱᴇʀ>")
+            await e.reply(f"𝐀𝐁𝐄 𝐁𝐇𝐀𝐈 𝐔𝐒𝐊𝐄 𝐑𝐄𝐏𝐋𝐘 𝐌𝐄𝐈𝐍 𝐋𝐈𝐊𝐇𝐎 𝐉𝐀𝐁 𝐔𝐑𝐈𝐗𝐗 𝐆𝐀𝐍𝐃 𝐅𝐀𝐃𝐄𝐆𝐀 \n  » {hl}rraid <ᴜꜱᴇʀɴᴀᴍᴇ ᴏꜰ ᴜꜱᴇʀ>\n  » {hl}rraid <ʀᴇᴘʟʏ ᴛᴏ ᴀ ᴜꜱᴇʀ>")
 
 
 @X1.on(events.NewMessage(incoming=True, pattern=r"\%sdrraid(?: |$)(.*)" % hl))
@@ -178,7 +178,7 @@ async def mraid(e):
                 await e.client.send_message(e.chat_id, caption)
                 await asyncio.sleep(0.1)
         except (IndexError, ValueError, NameError):
-            await e.reply(f"𝗠𝗼𝗱𝘂𝗹𝗲 𝗡𝗮𝗺𝗲: 𝗠𝗥𝗮𝗶𝗱\n  » {hl}mraid <ᴄᴏᴜɴᴛ> <ᴜꜱᴇʀɴᴀᴍᴇ ᴏꜰ ᴜꜱᴇʀ>\n  » {hl}mraid <ᴄᴏᴜɴᴛ> <ʀᴇᴘʟʏ ᴛᴏ ᴀ ᴜꜱᴇʀ>")
+            await e.reply(f"𝐀𝐁𝐄 𝐁𝐇𝐀𝐈 𝐔𝐒𝐊𝐄 𝐑𝐄𝐏𝐋𝐘 𝐌𝐄𝐈𝐍 𝐋𝐈𝐊𝐇𝐎 𝐉𝐀𝐁 𝐔𝐑𝐈𝐗𝐗 𝐆𝐀𝐍𝐃 𝐅𝐀𝐃𝐄𝐆𝐀 \n  » {hl}mraid <ᴄᴏᴜɴᴛ> <ᴜꜱᴇʀɴᴀᴍᴇ ᴏꜰ ᴜꜱᴇʀ>\n  » {hl}mraid <ᴄᴏᴜɴᴛ> <ʀᴇᴘʟʏ ᴛᴏ ᴀ ᴜꜱᴇʀ>")
         except Exception as e:
             print(e)
 
@@ -216,7 +216,7 @@ async def sraid(e):
                 await e.client.send_message(e.chat_id, caption)
                 await asyncio.sleep(0.1)
         except (IndexError, ValueError, NameError):
-            await e.reply(f"𝗠𝗼𝗱𝘂𝗹𝗲 𝗡𝗮𝗺𝗲: 𝗦𝗥𝗮𝗶𝗱\n  » {hl}sraid <ᴄᴏᴜɴᴛ> <ᴜꜱᴇʀɴᴀᴍᴇ ᴏꜰ ᴜꜱᴇʀ>\n  » {hl}sraid <ᴄᴏᴜɴᴛ> <ʀᴇᴘʟʏ ᴛᴏ ᴀ ᴜꜱᴇʀ>")
+            await e.reply(f"𝐀𝐁𝐄 𝐁𝐇𝐀𝐈 𝐔𝐒𝐊𝐄 𝐑𝐄𝐏𝐋𝐘 𝐌𝐄𝐈𝐍 𝐋𝐈𝐊𝐇𝐎 𝐉𝐀𝐁 𝐔𝐑𝐈𝐗𝐗 𝐆𝐀𝐍𝐃 𝐅𝐀𝐃𝐄𝐆𝐀 \n  » {hl}sraid <ᴄᴏᴜɴᴛ> <ᴜꜱᴇʀɴᴀᴍᴇ ᴏꜰ ᴜꜱᴇʀ>\n  » {hl}sraid <ᴄᴏᴜɴᴛ> <ʀᴇᴘʟʏ ᴛᴏ ᴀ ᴜꜱᴇʀ>")
         except Exception as e:
             print(e)
 
